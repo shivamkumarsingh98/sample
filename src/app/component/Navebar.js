@@ -15,7 +15,7 @@ function Navbar() {
     setIsOpen(false);
   };
   return (
-    <nav className="bg-gradient-to-r from-pink-500  to-teal-500 w-full top-0  z-50 transition-transform ease-in-out duration-300">
+    <nav className="bg-gradient-to-r from-pink-500  to-teal-400 w-full top-0  z-50 transition-transform ease-in-out duration-300">
       <div className="container mx-auto px-6 py-4 flex items-center justify-between ">
         <div className="text-2xl font-extrabold text-gray-800 flex items-center space-x-2">
           <Image src="/Images.jpg" alt="Logo" width={50} height={50} />
@@ -24,28 +24,28 @@ function Navbar() {
           </Link>
         </div>
 
-        <div className="hidden lg:flex flex-grow items-center justify-center space-x-8">
+        <div className="hidden lg:flex flex-grow items-center justify-center space-x-8 ">
           <Link
             href="/"
-            className="text-gray-800 hover:text-white transition-transform transform hover:scale-105"
+            className="text-white hover:text-white transition-transform transform hover:scale-105"
           >
             Home
           </Link>
           <Link
             href="/Stateschems"
-            className="text-gray-800 hover:text-white transition-transform transform hover:scale-105"
+            className="text-white hover:text-white transition-transform transform hover:scale-105"
           >
             State Schemes
           </Link>
           <Link
-            href="/Services"
-            className="text-gray-800 hover:text-white transition-transform transform hover:scale-105"
+            href="/Stateschems"
+            className="text-white hover:text-white transition-transform transform hover:scale-105"
           >
             Central Schemes
           </Link>
           <Link
-            href="/Blogs"
-            className="text-gray-800 hover:text-white transition-transform transform hover:scale-105"
+            href="/Stateschems"
+            className="text-white hover:text-white transition-transform transform hover:scale-105"
           >
             Navigation
           </Link>
@@ -72,7 +72,7 @@ function Navbar() {
         ></div>
 
         <div
-          className={`relative bg-white h-full flex flex-col items-center justify-center space-y-6 transition-transform duration-300 ${
+          className={`relative bg-teal-400 h-full flex flex-col items-center justify-center space-y-6 transition-transform duration-300 ${
             isOpen ? "translate-y-0" : "translate-y-full"
           }`}
         >
@@ -91,21 +91,21 @@ function Navbar() {
             Home
           </Link>
           <Link
-            href="/About"
+            href="/Stateschems"
             onClick={closeMenu}
             className="text-gray-800 hover:text-white transition-transform transform hover:scale-105"
           >
             State Schemes
           </Link>
           <Link
-            href="/Services"
+            href="/Stateschems"
             onClick={closeMenu}
             className="text-gray-800 hover:text-white transition-transform transform hover:scale-105"
           >
             Central Schemes
           </Link>
           <Link
-            href="/Blogs"
+            href="/Stateschems"
             onClick={closeMenu}
             className="text-gray-800 hover:text-white transition-transform transform hover:scale-105"
           >

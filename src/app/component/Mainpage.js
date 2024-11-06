@@ -234,7 +234,7 @@ function Mainpage() {
           </div>
         </div>
         {/* Floating Scroll Button */}
-        <button className="fixed bottom-4 right-4 bg-pink-500 text-white rounded-full p-3 shadow-lg hover:bg-pink-600">
+        <button className="fixed bottom-4 right-[20px] bg-pink-500 text-white  p-3 shadow-lg hover:bg-pink-600">
           ⬆
         </button>
       </div>

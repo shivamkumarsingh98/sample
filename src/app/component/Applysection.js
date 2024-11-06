@@ -52,16 +52,16 @@ function Applysection() {
       <Image src="/siddan1.jpg" alt="gruhalakshmi" width={1000} height={500} />
       <br />
       <p>
-        7. The second section will have “Bank Account Details”.If you choose the
+        7. The second section will have “Bank Account Details.If you choose the
         first option, Grulahakshmi scheme funds will be transferred to your
         Aadhaar-linked bank account.If you choose the other bank, money will be
         paid to another beneficiary s bank account.There, you will need to enter
-        the IFSC code, bank account number, branch name, and bank.
+        the IFSC code bank account number branch name and bank.
       </p>
       <br />
       <Image src="/image2.jpg" alt="gruhalakshmi" width={1000} height={500} />
       <br />
-      <p>8. The third section is for “Gruhalakshmi details”.</p>
+      <p>8. The third section is for Gruhalakshmi details.</p>
       <br />
       <p>
         9. The last section is for “Declaration” where you must tick the box and
@@ -98,12 +98,12 @@ function Applysection() {
       <p className="has-medium-font-size">2. Login Seva Sindhu Account.</p>
       <br />
       <p class="has-medium-font-size">
-        3. Click on the Apply for Services button. Then, choose View All
+        3. Click on the Apply for Services button. Then choose View All
         Available Services.
       </p>
       <br />
       <p className="has-medium-font-size">
-        4. Next, theres Gruhalakshmi scheme.Click on it.
+        4. Next theres Gruhalakshmi scheme.Click on it.
       </p>
       <br />
       <p className="has-medium-font-size">
@@ -111,7 +111,7 @@ function Applysection() {
       </p>
       <br />
       <p className="has-medium-font-size">
-        6. “Aadhar Verification”.Enter your Aadhar number entered, click on the
+        6. “Aadhar Verification”.Enter your Aadhar number entered click on the
         Click Here button for Aadhaar Verification.Enter the OTP that has been
         sent on the aadhar linked mobile number.
       </p>
@@ -120,11 +120,11 @@ function Applysection() {
       <br />
       <p>
         7. Fill out the“Householder details like Name of the Applicant Aadhaar
-        number Mobile Number Voters ID Number Ration card type (BPL AAP or APL),
+        number Mobile Number Voters ID Number Ration card type (BPL AAP or APL)
         Ration card Number Ration cards Type (BPL, AAP or APL) category
-        Scheduled Caste, OBC Minority Other.Choose your category, enter the bank
-        account number, and upload beneficiarys portrait.Aadhaar Seeded Bank
-        name (where Aadhaar has been linked with your bank account), enter the
+        Scheduled Caste OBC Minority Other.Choose your category enter the bank
+        account number and upload beneficiarys portrait.Aadhaar Seeded Bank
+        name (where Aadhaar has been linked with your bank account) enter the
         banks name and IFSC.
       </p>
       <br />
@@ -151,7 +151,7 @@ function Applysection() {
       <p className="has-medium-font-size">• Have died</p>
       <br />
       <p className="has-medium-font-size">
-        • Enter the Aadhaar Number of your husband, his name in Aadhaar and
+        • Enter the Aadhaar Number of your husband his name in Aadhaar and
         mobile number.
       </p>
       <br />
@@ -173,7 +173,7 @@ function Applysection() {
       <br />
       <p className="has-medium-font-size">
         • The information I provided is best to my knowledge.If the information
-        I provided is false, then i will take legal action to repay any
+        I provided is false then i will take legal action to repay any
         Gruhalakshmi Yojana funds that i received.Read and Understand
       </p>
       <br />
@@ -182,9 +182,9 @@ function Applysection() {
       <Image src="/image8.jpg" alt="gruhalakshmi" width={1000} height={500} />
       <br />
       <p className="has-medium-font-size">
-        10. In the text box, enter the 6-digit number.Click on the green button
+        10. In the text box enter the 6-digit number.Click on the green button
         to check the information you filled is right.now Click on the Submit
-        button to complete the process.Here, your&nbsp;
+        button to complete the process.Here your&nbsp;
         <a href="https://gruhalakshmischeme.in/">application</a> will be
         sent.Save the receipt as a pdf or take a screen shot.
       </p>
@@ -193,7 +193,7 @@ function Applysection() {
       <br />
       <p className="has-medium-font-size">
         • Those who wish to apply for the monthly benefit of Rs.2,000 under
-        “Gruha Lakshmi”, can do so by clicking on the link below.
+        “Gruha Lakshmi” can do so by clicking on the link below.
       </p>
       <br />
       <p class="has-medium-font-size">
@@ -201,13 +201,13 @@ function Applysection() {
         <a href="https://gruhalakshmischeme.in/gruha-lakshmi-status/">
           Aadhaar number
         </a>
-        of the owners, the bank details, and the mobile number.
+        of the owners the bank details and the mobile number.
       </p>
       <br />
       <p className="has-medium-font-size">click on “I Agree”</p>
       <br />
       <p className="has-medium-font-size">
-        • Fill out the box with the given code,Click on Submit.
+        • Fill out the box with the given code Click on Submit.
       </p>
       <br />
       <p className="has-medium-font-size">
