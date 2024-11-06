@@ -36,7 +36,7 @@ function Mainpage() {
       </p>
       <br />
       <p className="w-full flex justify-left items-center text-white font-bold h-[50px] bg-pink-500 mt-[30px]">
-        Griha Lakshmi Yojana Karnataka 2023 Latest news :
+        Gruha Lakshmi Yojana Karnataka 2023 Latest news :
       </p>
       <br />
       <p>
