@@ -19,7 +19,7 @@ function Navbar() {
       <div className="container mx-auto px-6 py-4 flex items-center justify-between ">
         <div className="text-2xl font-extrabold text-gray-800 flex items-center space-x-2">
           <Image src="/images.jpg" alt="Logo" width={50} height={50} />
-          <Link href="/" className="text-xl text-white w-[200px]">
+          <Link href="/" className="text-xl text-white w-[150px]">
             Gruha Lakshmi
           </Link>
         </div>

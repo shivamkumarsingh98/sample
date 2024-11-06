@@ -184,7 +184,7 @@ function Applysection() {
       <p className="has-medium-font-size">
         10. In the text box enter the 6-digit number.Click on the green button
         to check the information you filled is right.now Click on the Submit
-        button to complete the process.Here your&nbsp;
+        button to complete the process.Here your
         <a href="https://gruhalakshmischeme.in/">application</a> will be
         sent.Save the receipt as a pdf or take a screen shot.
       </p>
@@ -196,8 +196,8 @@ function Applysection() {
         “Gruha Lakshmi” can do so by clicking on the link below.
       </p>
       <br />
-      <p class="has-medium-font-size">
-        • You should fill the name and address of your house,&nbsp;
+      <p className="has-medium-font-size">
+        • You should fill the name and address of your house
         <a href="https://gruhalakshmischeme.in/gruha-lakshmi-status/">
           Aadhaar number
         </a>
