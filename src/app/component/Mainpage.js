@@ -4,7 +4,7 @@ import Image from "next/image";
 
 function Mainpage() {
   return (
-    <div className="bg-white text-[20px]">
+    <div className="bg-white text-[20px] text-black">
       <p className="w-full h-[2px] bg-pink-500"></p>
       <br />
       <br />

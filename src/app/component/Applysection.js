@@ -5,7 +5,7 @@ import Footer from "./Footer";
 
 function Applysection() {
   return (
-    <div className="bg-white text-[20px]">
+    <div className="bg-white text-[20px] text-black">
       <p className="w-full flex justify-left items-center text-white font-bold h-[50px] bg-pink-500 mt-[30px]">
         More Information to Apply for Gruha Lakshmi Yojana Karnataka:
       </p>
@@ -123,9 +123,9 @@ function Applysection() {
         number Mobile Number Voters ID Number Ration card type (BPL AAP or APL)
         Ration card Number Ration cards Type (BPL, AAP or APL) category
         Scheduled Caste OBC Minority Other.Choose your category enter the bank
-        account number and upload beneficiarys portrait.Aadhaar Seeded Bank
-        name (where Aadhaar has been linked with your bank account) enter the
-        banks name and IFSC.
+        account number and upload beneficiarys portrait.Aadhaar Seeded Bank name
+        (where Aadhaar has been linked with your bank account) enter the banks
+        name and IFSC.
       </p>
       <br />
       <Image src="/image6.jpg" alt="gruhalakshmi" width={1000} height={500} />
