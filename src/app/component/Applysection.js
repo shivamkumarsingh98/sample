@@ -44,7 +44,7 @@ function Applysection() {
       </p>
       <br />
       <p>
-        6. in the first section, “Personal details.This contains the Ration Card
+        6.in the first section, “Personal details.This contains the Ration Card
         number the name of the applicant and a category (Scheduled Tribe, OBC
         Minority, Other).Choose your category.Enter the mobile number.
       </p>
@@ -97,7 +97,7 @@ function Applysection() {
       <br />
       <p className="has-medium-font-size">2. Login Seva Sindhu Account.</p>
       <br />
-      <p class="has-medium-font-size">
+      <p className="has-medium-font-size">
         3. Click on the Apply for Services button. Then choose View All
         Available Services.
       </p>
@@ -111,7 +111,7 @@ function Applysection() {
       </p>
       <br />
       <p className="has-medium-font-size">
-        6. “Aadhar Verification”.Enter your Aadhar number entered click on the
+        6. Aadhar Verification”.Enter your Aadhar number entered click on the
         Click Here button for Aadhaar Verification.Enter the OTP that has been
         sent on the aadhar linked mobile number.
       </p>
