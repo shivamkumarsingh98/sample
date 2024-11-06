@@ -18,7 +18,7 @@ function Navbar() {
     <nav className="bg-gradient-to-r from-pink-500  to-teal-400 w-full top-0  z-50 transition-transform ease-in-out duration-300">
       <div className="container mx-auto px-6 py-4 flex items-center justify-between ">
         <div className="text-2xl font-extrabold text-gray-800 flex items-center space-x-2">
-          <Image src="/Images.jpg" alt="Logo" width={50} height={50} />
+          <Image src="/images.jpg" alt="Logo" width={50} height={50} />
           <Link href="/" className="text-xl text-white w-[200px]">
             Gruha Lakshmi
           </Link>
